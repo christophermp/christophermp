@@ -1,4 +1,4 @@
-### Hi there, I'm Christopher - aka [codeSTACKr][website] 👋
+### Hi there, I'm Christopher - aka [CMP][website] 👋
 
 ## I'm a Husband, and Cinema Automation Developer!
 - 🔭 I’m currently working on AI Management Systems!
@@ -63,7 +63,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
+[website]: https://minkino.no
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
