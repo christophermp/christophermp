@@ -5,14 +5,13 @@
 - 🌱 I’m currently learning Blazor 🤣
 - ⚡ Fun fact: I can boil minute rice in just 58sec
 
-### Connect with me:
+---
 
-[<img align="left" alt="minkino.no" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="@cmp_no | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="meldre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cmp_no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="Christopher`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&hide_border=true" />
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -39,7 +38,13 @@
 
 ---
 
-<img align="left" alt="Christopher`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&hide_border=true" />
+
+### Connect with me:
+
+[<img align="left" alt="minkino.no" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="@cmp_no | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="meldre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="cmp_no | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://minkino.no
 [twitter]: https://twitter.com/cmp_no
