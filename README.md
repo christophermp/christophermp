@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I can boil minute rice in just 58sec
 
 ---
-
+<!--
 <img align="left" alt="Christopher`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&hide_border=true" />
-
+-->
 <img src = "https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&theme=dark&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=christophermp&theme=dark">
 </p>
