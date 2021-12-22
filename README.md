@@ -1,5 +1,7 @@
 ### Hi there, I'm Christopher - aka [CMP][website] 👋
 
+[My StackOverflow Profile](https://stackoverflow.com/users/10369093/christophermp)
+
 ## I'm a Husband, and Cinema Automation Developer!
 - 🔭 I’m currently working on AI Management Systems!
 - 🌱 I’m currently learning Blazor 🤣
