@@ -3,7 +3,7 @@
 [My StackOverflow Profile](https://stackoverflow.com/users/10369093/christophermp)
 
 
-<a href="https://stackoverflow.com/users/users/10369093/christophermp"><img src="https://stackoverflow.com/users/flair/10369093.png?theme=dark" width="208" height="58" alt="profile for Vinoth Vino at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Christopehr at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/10369093/christophermp"><img src="https://stackoverflow.com/users/flair/10369093.png?theme=dark" width="208" height="58" alt="Profile for Christopher at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Christopher at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## I'm a Husband, and Cinema Automation Developer!
 - 🔭 I’m currently working on AI Management Systems!
