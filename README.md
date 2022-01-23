@@ -1,10 +1,5 @@
 ### Hi there, I'm Christopher - aka [CMP][website] 👋
 
-[My StackOverflow Profile](https://stackoverflow.com/users/10369093/christophermp)
-
-
-<a href="https://stackoverflow.com/users/10369093/christophermp"><img src="https://stackoverflow.com/users/flair/10369093.png?theme=dark" width="208" height="58" alt="Profile for Christopher at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Christopher at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ## I'm a Husband, and Cinema Automation Developer!
 - 🔭 I’m currently working on AI Management Systems!
 - 🌱 I’m currently learning Blazor 🤣
