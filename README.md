@@ -36,6 +36,7 @@
 
 <br />
 <br />
+[![CI](https://github.com/christophermp/cinema_iot/actions/workflows/main.yml/badge.svg)]
 <br />
 
 ---
