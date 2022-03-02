@@ -21,25 +21,6 @@
 - 🌱 I’m currently learning Blazor 🤣
 - ⚡ Fun fact: I can boil minute rice in just 58sec
 
----
-<!--
-<img align="left" alt="Christopher`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&hide_border=true" />
--->
-<img src = "https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=christophermp&theme=dark">
-</p>
-
-<br />
-
-### Current Project:
-
-<br />
-
-<img align="left" alt="HTML5" src="https://github.com/christophermp/images/blob/main/Cinema_iot/image1_iot.png" />
-<br />
-<br />
-
----
 
 ### Connect with me:
 
@@ -52,3 +33,20 @@
 [twitter]: https://twitter.com/cmp_no
 [instagram]: https://instagram.com/cmp_no
 [linkedin]: https://linkedin.com/in/meldre
+
+<br />
+<br />
+<br />
+
+<img src = "https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=christophermp&theme=dark">
+</p>
+
+<br />
+
+### Current Project:
+<br />
+
+<p><img align="left" alt="HTML5" src="https://github.com/christophermp/images/blob/main/Cinema_iot/image1_iot.png" /></p>
+
+
