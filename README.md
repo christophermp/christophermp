@@ -36,8 +36,7 @@
 
 <br />
 <br />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/christophermp/cinema_iot/master/images/image1_iot.png" />
-https://raw.githubusercontent.com/christophermp/cinema_iot/master/images/image1_iot.png
+<img align="left" alt="HTML5" src="https://github.com/christophermp/images/blob/main/Cinema_iot/image1_iot.png" />
 <br />
 
 ---
