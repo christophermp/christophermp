@@ -38,10 +38,9 @@
 <br />
 <br />
 
-<img src = "https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=christophermp&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&theme=radical&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=christophermp&theme=radical">
 </p>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true)
 
 <br />
 
