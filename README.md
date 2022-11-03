@@ -39,7 +39,7 @@
 <br />
 
 <div>
-<img src = "https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&theme=radical&line_height=40&count_private=true&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api?username=christophermp&show_icons=true&theme=radical&count_private=true&layout=compact">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=christophermp&theme=radical&count_private=true&layout=compact">
 </div>
 <br />
