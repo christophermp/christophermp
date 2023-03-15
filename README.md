@@ -21,6 +21,7 @@
 - 🌱 I’m currently learning Blazor 🤣
 - ⚡ Fun fact: I can boil minute rice in just 58sec
 
+[![Azure Static Web Apps CI/CD](https://github.com/christophermp/cineautStaticWebApp/actions/workflows/azure-static-web-apps-gentle-ocean-0baf94803.yml/badge.svg)](https://github.com/christophermp/cineautStaticWebApp/actions/workflows/azure-static-web-apps-gentle-ocean-0baf94803.yml)
 
 ### Connect with me:
 
