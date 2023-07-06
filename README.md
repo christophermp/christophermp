@@ -52,6 +52,9 @@
 ### Current Project:
 <br />
 
-<p><img align="left" alt="HTML5" src="https://github.com/christophermp/images/blob/main/Cinema_iot/image1_iot.png" /></p>
+<p float="center">
+  <img src="https://github.com/christophermp/images/blob/main/Cinema_iot/2.png" width="400" />
+  <img src="https://github.com/christophermp/images/blob/main/Cinema_iot/3.png" width="400" />
+</p>
 
 
