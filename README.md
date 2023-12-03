@@ -22,10 +22,6 @@
 - ⚡ Fun fact: I can boil minute rice in just 58sec
 
 
-
-## Monitored Builds:
-[![Azure Static Web Apps CI/CD](https://github.com/christophermp/cineautStaticWebApp/actions/workflows/azure-static-web-apps-gentle-ocean-0baf94803.yml/badge.svg)](https://github.com/christophermp/cineautStaticWebApp/actions/workflows/azure-static-web-apps-gentle-ocean-0baf94803.yml)
-
 ### Connect with me:
 
 [<img align="left" alt="minkino.no" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
